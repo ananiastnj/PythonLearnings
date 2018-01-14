@@ -1,0 +1,21 @@
+list1 = ["Anto","Anan",567,557,"Anto","Anto","Anan"]
+list2 = [0,1,2]
+'''print(list1)
+print(list2)
+print(list1+list2)
+print(list1[0])
+print(list1[0],list2[2])
+print(list1+list2)
+print(list1[1:])
+print(list1[-1])
+print(list1[-3:-1])
+print(list1.count("Anto"))
+'''
+print("List 1 lenght : ",len(list1))
+print("List 2 lenght : ",len(list2))
+l3 = list1.append(list2)
+l4 = list1.extend(list2)
+print(l3)
+print(l4)
+print("List 3 lenght : ",list1.append(list2))
+print("List 4 lenght : ",list1.extend(list2))

@@ -1,0 +1,89 @@
+             Restricted Rights Legend
+
+Use, duplication, or disclosure by the Government is subject to
+restrictions as set forth in subparagraph (c) of the Commercial
+Computer Software - Restricted Rights clause at FAR sec. 52.227-19 and
+subparagraph (c) (1) (ii) of the Rights in Technical Data and Computer
+Software clause at DFARS sec. 252.227-7013.
+
+            Cisco Systems, Inc.
+            170 West Tasman Drive
+            San Jose, California 95134-1706
+
+This product contains cryptographic features and is subject to United
+States and local country laws governing import, export, transfer and
+use. Delivery of Cisco cryptographic products does not imply
+third-party authority to import, export, distribute or use encryption.
+Importers, exporters, distributors and users are responsible for
+compliance with U.S. and local country laws. By using this product you
+agree to comply with applicable laws and regulations. If you are unable
+to comply with U.S. and local laws, return this product immediately.
+
+A summary of U.S. laws governing Cisco cryptographic products may be found at:
+http://www.cisco.com/wwl/export/crypto/tool/stqrg.html
+
+If you require further assistance please contact us by sending email to
+export@cisco.com.
+
+This product contains some software licensed under the
+"GNU General Public License, version 2" provided with
+ABSOLUTELY NO WARRANTY under the terms of
+"GNU General Public License, version 2", available here:
+http://www.gnu.org/licenses/old-licenses/gpl-2.0.html
+
+This product contains some software licensed under the
+"GNU Library General Public License, version 2" provided
+with ABSOLUTELY NO WARRANTY under the terms of "GNU Library
+General Public License, version 2", available here:
+http://www.gnu.org/licenses/old-licenses/lgpl-2.0.html
+
+This product contains some software licensed under the
+"GNU Lesser General Public License, version 2.1" provided
+with ABSOLUTELY NO WARRANTY under the terms of "GNU Lesser
+General Public License, version 2.1", available here:
+http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html
+
+This product contains some software licensed under the 
+"GNU General Public License, version 3" provided with 
+ABSOLUTELY NO WARRANTY under the terms of  
+"GNU General Public License, Version 3", available here: 
+http://www.gnu.org/licenses/gpl.html.
+
+This product contains some software licensed under the
+"GNU Affero General Public License, version 3" provided
+with ABSOLUTELY NO WARRANTY under the terms of
+"GNU Affero General Public License, version 3", available here:
+http://www.gnu.org/licenses/agpl-3.0.html.
+
+Cisco AP Software, (ap1g4), [wnbu-tools-lnx6:/san/BUILD/workspace/c8_5_throttle/label/corsica]
+Technical Support: http://www.cisco.com/techsupport
+Copyright (c) 1986-2015 by Cisco Systems, Inc.
+Compiled Fri Oct 27 08:21:11 PDT 2017
+
+ROM: Bootstrap program is U-Boot boot loader
+BOOTLDR: U-Boot boot loader Version 30
+
+AP1852i.2098 uptime is 1 days, 21 hours, 21 minutes
+Last reload time   : Mon Nov 6 09:19:04 UTC 2017
+Last reload reason : Image Upgrade
+ 
+cisco AIR-AP1852I-A-K9 ARMv7 Processor rev 0 (v7l) with 997268/693652K bytes of memory.
+Processor board ID KWC2045090G
+AP Running Image     : 8.5.107.77
+Primary Boot Image   : 8.5.10745.77
+Backup Boot Image    : 8.5.107.69
+Tertiary Boot Image    : 8.5.107657.69
+2 Gigabit Ethernet interfaces
+2 802.11 Radios
+Radio FW version : 9528826a3c000b87a703005268920a6a
+NSS FW version : wstephen,
+
+Base ethernet MAC Address            : 00:38:DF:40:20:98
+Part Number                          : 0-0000-00
+PCA Assembly Number                  : 074-13149-02
+PCA Revision Number                  : 01
+PCB Serial Number                    : KWC2045090G
+Top Assembly Part Number             : 000-00000-00
+Top Assembly Serial Number           : KWC2045090G
+Top Revision Number                  : A0
+Product/Model Number                 : AIR-AP1852I-A-K9 

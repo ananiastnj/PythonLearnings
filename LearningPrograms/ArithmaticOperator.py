@@ -1,0 +1,8 @@
+print("Arithmatic Operator")
+print("Addition 5 + 6 = ", 5 + 6)
+print("Subtract 5 - 6 = ", 5 - 6)
+print("Multipli 5 * 6 = ", 5 * 6)
+print("Division 5 / 6 = ", 5 / 6)
+print("Modulator 5 % 6 = ", 5 % 6)
+print("Exponent 5 ** 3 = ", 5 ** 3)
+print("floor Division 5 // 2 = ", 5 // 2)
